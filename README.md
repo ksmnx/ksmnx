@@ -1,6 +1,5 @@
-## Hi there 👋
 <div id="header" align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/ce351f9e3c272544768dd94411767547ba18785567cc698d5710e22263155188.gif" width="800"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo0YjJudXd4dmV0cmw3Mm4wYW94czJ2ZzcxZnN2d2VlODQxZDFzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUJgL0iByjsAS2MQH1/giphy.webp" width="800"/>
 </div>
 
 <!--
